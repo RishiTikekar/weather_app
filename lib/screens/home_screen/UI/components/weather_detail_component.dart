@@ -63,7 +63,7 @@ class _MainHomeWidget extends StatelessWidget {
                   const SizedBox(height: 16),
                   const _ForecastCard(),
                 ] else ...[
-                  _ErrorState(),
+                  const _ErrorState(),
                 ]
               ]
             ],

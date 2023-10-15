@@ -181,7 +181,7 @@ class _CurrentWeatherCard extends StatelessWidget {
                 height: 77,
                 width: 77,
                 errorBuilder: (context, error, stackTrace) => Image.asset(
-                  Assets.icPartlySunny,
+                  Assets.icCloudy,
                   height: 77,
                   width: 77,
                 ),
