@@ -1,0 +1,24 @@
+{
+    "cloudy":"क्लाउडी",
+    "splash_subtitle":"आम्ही सर्व इथल्या \nहवामानाची काळजी करू नका",
+    "settings":"सेटिंग्ज",
+    "set_language":"भाषा सेट करा",
+    "permission_subtitle":"हवामानाची माहिती मिळविण्यासाठी स्थानाची परवानगी आवश्यक आहे",
+    "give_permission":"परवानगी द्या",
+    "location":"स्थान",
+    "share_this_app":"हे ॲप शेअर करा",
+    "rate_this_app":"या ॲपला रेट करा",
+    "latitude":"अक्षांश",
+    "longitude":"रेखांश",
+    "search_city_name":"शहराचे नाव शोधा",
+    "search":"शोधा",
+    "your_location":"तुमचे स्थान",
+    "forecast":"अंदाज",
+    "chance_of_rain":"पावसाची शक्यता",
+    "weekly_forecast":"साप्ताहिक अंदाज",
+    "search_weather":"हवामान शोधा",
+    "empty_state_title":"यादी सध्या रिकामी आहे",
+    "error_text":"काहीतरी गडबड आहे दया",
+    "retry":"पुन्हा प्रयत्न करा"
+
+}

@@ -1,0 +1,24 @@
+{
+    "cloudy":"Cloudy",
+    "splash_subtitle":"Don't worry about \nthe weather we all here",
+    "settings":"Settings",
+    "set_language":"Set language",
+    "permission_subtitle":"Location permission is required to get weather information",
+    "give_permission":"Give permission",
+    "location":"location",
+    "share_this_app":"Share this app",
+    "rate_this_app":"Rate this app",
+    "latitude":"Latitude",
+    "longitude":"Longitude",
+    "search_city_name":"Search city name",
+    "search":"Search",
+    "your_location":"Your location",
+    "forecast":"Forecast",
+    "chance_of_rain":"Chance of rain",
+    "weekly_forecast":"Weekly forecast",
+    "search_weather":"Search Weather",
+    "empty_state_title":"List is currently empty",
+    "error_text":"Something went wrong",
+    "retry":"Retry"
+   
+}
